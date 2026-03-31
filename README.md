@@ -35,7 +35,7 @@ A standalone Windows version has been created using **CX-Freeze**.
 *Reference:* [CX-Freeze Documentation](https://cx-freeze.readthedocs.io)
 
 **Windows Version v1.0.0:**
-[🔽 Download breakout_win_v1.0.zip](https://github.com/pythonprojects2025/breakout/releases/download/v1.0.0/breakout_win_v1.0.zip)
+[🔽 Download breakout_win_v1.0.zip](https://github.com/pythonprojects2025/breakout/releases/tag/v1.0.0)
 
 **THIS IS A LEARNING PROJECT** Please read the [DISCLAIMER](./DISCLAIMER.md) first before using this software! 
 
